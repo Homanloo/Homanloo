@@ -235,7 +235,7 @@
       <g fill="#64748b">
         <text x="146" y="128"># Homanloo's GitHub profile</text>
         <text x="146" y="151"># Chemical Engineer &amp; Programmer</text>
-        <text x="146" y="174"># Mathematical modeling, numerical methods &amp; ML.</text>
+        <text x="146" y="174"># Mathematical modeling &amp; numerical methods</text>
       </g>
 
       <!-- dict -->
@@ -244,16 +244,16 @@
       <text x="182" y="243"><tspan fill="#7dd3fc">"name"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"Mohammad Homanloo"</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
       <text x="182" y="266"><tspan fill="#7dd3fc">"education"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">[</tspan></text>
-      <text x="218" y="289"><tspan fill="#86efac">"B.Sc. Chemical Engineering @ Sharif"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="218" y="289"><tspan fill="#86efac">"B.Sc. Chemical Eng. @ Sharif"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="218" y="312"><tspan fill="#86efac">"M.Sc. — to be determined"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="182" y="335"><tspan fill="#fbbf24">]</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
-      <text x="182" y="358"><tspan fill="#7dd3fc">"role"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"AI / Scientific Software Engineer"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="182" y="358"><tspan fill="#7dd3fc">"role"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"AI &amp; Scientific Programmer"</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
       <text x="182" y="381"><tspan fill="#7dd3fc">"focus"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">[</tspan></text>
       <text x="218" y="404"><tspan fill="#86efac">"Scientific computing"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="218" y="427"><tspan fill="#86efac">"Machine learning"</tspan><tspan fill="#e2e8f0">,</tspan></text>
-      <text x="218" y="450"><tspan fill="#86efac">"Numerical simulation &amp; optimization"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="218" y="450"><tspan fill="#86efac">"Numerical simulation"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="218" y="473"><tspan fill="#86efac">"Mathematical Modeling"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="182" y="496"><tspan fill="#fbbf24">]</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
