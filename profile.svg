@@ -234,8 +234,8 @@
       <!-- comments -->
       <g fill="#64748b">
         <text x="146" y="128"># Homanloo's GitHub profile</text>
-        <text x="146" y="151"># Chemical Engineer &amp; Programmer</text>
-        <text x="146" y="174"># Mathematical modeling &amp; numerical methods</text>
+        <text x="146" y="151"># Chemical engineer &amp; programmer</text>
+        <text x="146" y="174"># Mathematical modeling &amp; numerical analysis</text>
       </g>
 
       <!-- dict -->
@@ -251,9 +251,9 @@
       <text x="182" y="358"><tspan fill="#7dd3fc">"role"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"AI &amp; Scientific Programmer"</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
       <text x="182" y="381"><tspan fill="#7dd3fc">"focus"</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fbbf24">[</tspan></text>
-      <text x="218" y="404"><tspan fill="#86efac">"Scientific computing"</tspan><tspan fill="#e2e8f0">,</tspan></text>
-      <text x="218" y="427"><tspan fill="#86efac">"Machine learning"</tspan><tspan fill="#e2e8f0">,</tspan></text>
-      <text x="218" y="450"><tspan fill="#86efac">"Numerical simulation"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="218" y="404"><tspan fill="#86efac">"Scientific Computing"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="218" y="427"><tspan fill="#86efac">"Machine Learning"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+      <text x="218" y="450"><tspan fill="#86efac">"Numerical Simulation"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="218" y="473"><tspan fill="#86efac">"Mathematical Modeling"</tspan><tspan fill="#e2e8f0">,</tspan></text>
       <text x="182" y="496"><tspan fill="#fbbf24">]</tspan><tspan fill="#e2e8f0">,</tspan></text>
 
