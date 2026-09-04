@@ -75,7 +75,7 @@
           font-family="Inter, Segoe UI, Arial, sans-serif"
           font-size="17"
           fill="#94a3b8">
-      Mohammad Homanloo — README.md
+      C:\Users\Homanloo\README.md
     </text>
 
 
@@ -300,8 +300,8 @@
     <g font-family="Inter, Segoe UI, Arial, sans-serif"
        font-size="13" fill="#94a3b8">
       <text x="638" y="160">LANGUAGES</text>
-      <text x="638" y="221">AI / ML</text>
-      <text x="638" y="282">DATA / VIZ</text>
+      <text x="638" y="221">NUMERIC &amp; ML </text>
+      <text x="638" y="282">DATA &amp; VISUALIZATION</text>
       <text x="638" y="343">TOOLS</text>
     </g>
 
