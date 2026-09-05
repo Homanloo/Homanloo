@@ -515,8 +515,7 @@
        fill="#64748b">
       <text x="46" y="770">Mode: Command</text>
       <text x="166" y="770">Ln 1, Col 1</text>
-      <text x="266" y="770">README.ipynb</text>
-      <text x="972" y="770" text-anchor="end">Python 3 (ipykernel)</text>
+      <text x="1032" y="770" text-anchor="end">Python 3 (ipykernel)</text>
       <text x="1080" y="770" text-anchor="end">Idle</text>
     </g>
     <circle cx="1102" cy="765" r="6" fill="none" stroke="#22c55e"
