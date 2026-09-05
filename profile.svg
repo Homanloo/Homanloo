@@ -50,7 +50,7 @@
     <text x="580" y="51" text-anchor="middle"
           font-family="Inter, Segoe UI, Arial, sans-serif"
           font-size="16" fill="#94a3b8">
-      Homanloo.ipynb &#8212; JupyterLab
+      Homanloo.ipynb
     </text>
 
 
@@ -293,25 +293,21 @@
       <circle cx="162" cy="283" r="5" fill="#e8eef6"/>
       <text x="175" y="288" fill="#cbd5e1">AI Engineering</text>
 
-      <rect x="294" y="268" width="186" height="30" rx="15"
+      <rect x="294" y="268" width="205" height="30" rx="15"
             fill="#131f33" stroke="#22334d"/>
-      <circle cx="312" cy="283" r="5" fill="#c8d2e0"/>
-      <text x="325" y="288" fill="#cbd5e1">Scientific Computing</text>
+      <circle cx="312" cy="283" r="5" fill="#e8eef6"/>
+      <text x="325" y="288" fill="#cbd5e1">Scientific Programming</text>
 
-      <rect x="490" y="268" width="136" height="30" rx="15"
+      <rect x="510" y="268" width="136" height="30" rx="15"
             fill="#131f33" stroke="#22334d"/>
-      <circle cx="508" cy="283" r="5" fill="#aab8ca"/>
-      <text x="521" y="288" fill="#cbd5e1">Data Analysis</text>
+      <circle cx="528" cy="283" r="5" fill="#e8eef6"/>
+      <text x="541" y="288" fill="#cbd5e1">Data Analysis</text>
 
-      <rect x="636" y="268" width="130" height="30" rx="15"
+      <rect x="656" y="268" width="200" height="30" rx="15"
             fill="#131f33" stroke="#22334d"/>
-      <circle cx="654" cy="283" r="5" fill="#8fa0b5"/>
-      <text x="667" y="288" fill="#cbd5e1">Visualization</text>
+      <circle cx="674" cy="283" r="5" fill="#e8eef6"/>
+      <text x="687" y="288" fill="#cbd5e1">Software Development</text>
 
-      <rect x="776" y="268" width="140" height="30" rx="15"
-            fill="#131f33" stroke="#22334d"/>
-      <circle cx="794" cy="283" r="5" fill="#75859b"/>
-      <text x="807" y="288" fill="#cbd5e1">Software Dev.</text>
     </g>
 
 
