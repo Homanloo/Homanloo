@@ -411,7 +411,7 @@
     <!-- CELL [2]  &#124; output : matplotlib figure                 -->
     <!-- ======================================================= -->
 
-    <text x="656" y="480" text-anchor="end"
+    <text x="656" y="477" text-anchor="end"
           font-family="JetBrains Mono, Consolas, monospace"
           font-size="13.5" fill="#7f9dc0">[2]:</text>
 
@@ -481,7 +481,7 @@
     <!-- CELL [3]  &#124; output : stdout stream                     -->
     <!-- ======================================================= -->
 
-    <text x="656" y="620" text-anchor="end"
+    <text x="656" y="622" text-anchor="end"
           font-family="JetBrains Mono, Consolas, monospace"
           font-size="13.5" fill="#7f9dc0">[3]:</text>
 
